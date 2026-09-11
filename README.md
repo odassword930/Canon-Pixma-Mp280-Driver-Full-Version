@@ -230,3 +230,6 @@ This repository serves as the official landing page for Canon PIXMA MP280 Driver
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Canon PIXMA MP280 Driver today!**
+
+---
+**Last updated:** 2026-09-11 13:13:22 UTC
